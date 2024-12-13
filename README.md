@@ -28,5 +28,5 @@ This is a real-time multiplayer game where players explore a grid map in search 
 ## How to Run
 1. Clone the repository.
 2. Compile the server and client files.
-3. Start the server using `java server.Server.
+3. Start the server using `java server.Server`.
 4. Start the client using `java client.Client`.
